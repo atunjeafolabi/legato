@@ -1,5 +1,5 @@
 <?php
 
 return [
-    \App\Command\Example::class,
+    \App\Commands\Example::class,
 ];

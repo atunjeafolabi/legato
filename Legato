@@ -4,4 +4,4 @@
 
 require_once __DIR__ .'/vendor/autoload.php';
 
-(new \Legato\Framework\Create())->app->start();
+(new \Legato\Framework\Console\Create())->app->start();

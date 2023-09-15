@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Command;
+namespace App\Commands;
 
-use Legato\Framework\Command;
+use Legato\Framework\Console\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
